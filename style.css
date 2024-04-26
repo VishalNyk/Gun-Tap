@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    background-color: #283149;
+    background-image:url("bg.jpg");
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+  .sub{
+    font-size: 5rem;
+    color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 0 black;
+  }
+  
+  footer {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bolder;
+  }
+  
+  .w {
+    background-image: url("./images/akm.PNG");
+  }
+  
+  .a {
+    background-image: url("./images/dp28.png");
+  
+  }
+  
+  .s {
+    background-image: url("./images/kar98.png");
+  
+  }
+  
+  .set {
+    margin: 10% auto;
+  }
+  
+  .game-over {
+    background-color: green;
+    opacity: 0.8;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .weapon {
+    outline: none;
+    border: 10px solid #000208;
+    font-size: 1rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    color:black;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
